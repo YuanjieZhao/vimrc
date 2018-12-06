@@ -6,7 +6,7 @@ This is my personal vimrc, which primarily focuses on the following goals:
 2. readability
 3. minimalism (avoid unnecessary configurations and plugins)
 
-The color scheme I'm using is `solarized`, which I think is the best for readability. For this color scheme to work effectively, put `solarized.vim` under the directory `.vim/colors`
+The color scheme I'm using is `solarized`, which I think is the best for readability. For this color scheme to work effectively, put the file `solarized.vim` under the directory `.vim/colors`
 
 ### Caution
 
